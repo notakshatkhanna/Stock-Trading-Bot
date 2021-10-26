@@ -12,4 +12,7 @@
 2. Executes main method
     - Web Scrapes tradable stocks from Yahoo Finance website.
     - Starts placing bracket orders with 5% limit price and 10% stop loss on a particular ticker if the stock is not already currently owned according to the strategy (very basic).
-    - Sends email notifying you about the changes in the portfolio after the market closes.
+    - Sends an email notifying you about the changes in the portfolio after the market closes.
+
+#How to use
+1. 
